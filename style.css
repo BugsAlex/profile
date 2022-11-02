@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(167, 239, 255);
+  color: rgb(0, 135, 225);
+  text-align:justify;
+}
+
+#my_photo {
+  size: 300px;
+  box-shadow: 0,0,50px,black;
+  border-radius: 50%;
+  text-align: center;
+}
+
+h1 {
+  size: 50px;
+  text-align: center;
+  font-family: times, serif;
+  color: rgb(20, 36, 138);
+}
+
+#button {
+  size: 200px;
+  border: 1px seagreen;
+  text-align: center;
+}
+
+button:hover {
+  transition: 2sec ease;
+  background-color: rgb(0, 137, 196);
+}
+
+#text {
+  text-align: center;
+}
+
+#subtitle {
+  text-align: center;
+}
+
+#contact {
+  color: black;
+}
